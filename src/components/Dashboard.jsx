@@ -9,6 +9,21 @@ const Dashboard = () => {
       unit: "Unit 1",
       approved: "no",
     },
+    {
+      book: "Complete IELTS 4-5 WB",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Complete IELTS 4-5 SB",
+      unit: "Unit 2",
+      approved: "no",
+    },
+    {
+      book: "Complete IELTS 4-5 WB",
+      unit: "Unit 2",
+      approved: "no",
+    },
   ];
   const level2 = [
     {
@@ -37,16 +52,16 @@ const Dashboard = () => {
       <h1 className="my-5">Dashboard</h1>
       <Tabs.Group aria-label="Tabs with underline" style="underline">
         <Tabs.Item title="Level 1">
-          <TrackerList />
+          <TrackerList levelData={level1} />
         </Tabs.Item>
         <Tabs.Item title="Level 2">
-          <TrackerList />
+          <TrackerList levelData={level2} />
         </Tabs.Item>
         <Tabs.Item title="Level 3">
-          <TrackerList />
+          <TrackerList levelData={level3} />
         </Tabs.Item>
         <Tabs.Item title="Level 4">
-          <TrackerList />
+          <TrackerList levelData={level4} />
         </Tabs.Item>
       </Tabs.Group>
     </div>
