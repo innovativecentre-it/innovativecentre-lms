@@ -10,6 +10,27 @@ const Dashboard = () => {
       approved: "no",
     },
   ];
+  const level2 = [
+    {
+      book: "Complete IELTS 4-5 SB",
+      unit: "Unit 1",
+      approved: "no",
+    },
+  ];
+  const level3 = [
+    {
+      book: "Complete IELTS 4-5 SB",
+      unit: "Unit 1",
+      approved: "no",
+    },
+  ];
+  const level4 = [
+    {
+      book: "Complete IELTS 4-5 SB",
+      unit: "Unit 1",
+      approved: "no",
+    },
+  ];
 
   return (
     <div className="container mx-auto">
