@@ -42,7 +42,7 @@ const Dashboard = () => {
       approved: "no",
     },
     {
-      book: "Advantage listening skills",
+      book: "Advantage Listening skills",
       unit: "Unit 1",
       approved: "no",
     },
