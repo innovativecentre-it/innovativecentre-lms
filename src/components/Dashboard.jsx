@@ -15,13 +15,13 @@ const Dashboard = () => {
       approved: "no",
     },
     {
-      book: "Complete IELTS 4-5 SB",
-      unit: "Unit 2",
+      book: "Reading collections",
+      unit: "Unit ",
       approved: "no",
     },
     {
-      book: "Complete IELTS 4-5 WB",
-      unit: "Unit 2",
+      book: "Listening collections",
+      unit: "Unit ",
       approved: "no",
     },
   ];
