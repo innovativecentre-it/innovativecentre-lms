@@ -16,12 +16,21 @@ const Dashboard = () => {
     },
     {
       book: "Reading collections",
+<<<<<<< HEAD
       unit: "Unit 2",
       approved: "no",
     },
     {
       book: "Listening collection",
       unit: "Unit 2",
+=======
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Listening collections",
+      unit: "Unit 1 ",
+>>>>>>> 38c2e6ede8ed12620d85af66234b0438f83887b0
       approved: "no",
     },
   ];
@@ -31,12 +40,68 @@ const Dashboard = () => {
       unit: "Unit 1",
       approved: "yes",
     },
+<<<<<<< HEAD
+=======
+    {
+      book: "Graduation IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Advantage Reading skills",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Advantage Listening skills",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Advanced Vocabulary for IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Objective Proficiency",
+      unit: "Unit 1",
+      approved: "no",
+    },
+>>>>>>> 38c2e6ede8ed12620d85af66234b0438f83887b0
   ];
   const level3 = [
     {
       book: "Complete IELTS 4-5 SB",
       unit: "Unit 1",
       approved: "no",
+<<<<<<< HEAD
+=======
+    },
+    {
+      book: "Graduation skills for IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Official Guide to IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "New insight into IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Ready for IELTS",
+      unit: "Unit 1",
+      approved: "no",
+    },
+    {
+      book: "Mindset for IELTS L1-L3",
+      unit: "Unit 1",
+      approved: "no",
+>>>>>>> 38c2e6ede8ed12620d85af66234b0438f83887b0
     },
   ];
 
@@ -46,6 +111,34 @@ const Dashboard = () => {
       unit: "Unit 1",
       approved: "yes",
     },
+<<<<<<< HEAD
+=======
+    {
+      book: "Cambridge Trainer 1-2",
+      unit: "Unit 1",
+      approved: "yes",
+    },
+    {
+      book: "Offical Guide to IELTS",
+      unit: "Unit 1",
+      approved: "yes",
+    },
+    {
+      book: "Cambridge English Testbank",
+      unit: "Unit 1",
+      approved: "yes",
+    },
+    {
+      book: "Longman practice 1-3",
+      unit: "Unit 1",
+      approved: "yes",
+    },
+    {
+      book: "Exam essentails 1-2",
+      unit: "Unit 1",
+      approved: "yes",
+    },
+>>>>>>> 38c2e6ede8ed12620d85af66234b0438f83887b0
   ];
 
   return (
