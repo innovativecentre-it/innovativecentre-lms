@@ -16,7 +16,7 @@ const Dashboard = () => {
     },
     {
       book: "Reading collections",
-      unit: "Unit ",
+      unit: "Unit 11",
       approved: "no",
     },
     {
@@ -98,7 +98,7 @@ const Dashboard = () => {
     },
     {
       book: "Cambridge Trainer 1-2",
-      unit: "Unit 2",
+      unit: "Unit 1",
       approved: "yes",
     },
     {
