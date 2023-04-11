@@ -41,7 +41,7 @@ const TrackerList = (props) => {
               <Table.Cell>{item.approved}</Table.Cell>
               <Table.Cell>
                 <a
-                  href="https://innovativecentresam-my.sharepoint.com/personal/innovative_database_innovativecentre_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Finnovative%5Fdatabase%5Finnovativecentre%5Forg%2FDocuments%2FDATABASE%202021%20%28Full%29%2FComplete%2FComplete%20IELTS%2FBands%204%2D5%2FFor%20Students&ga=1"
+                  href="/"
                   className="font-medium text-blue-600 hover:underline dark:text-blue-500"
                 >
                   View
