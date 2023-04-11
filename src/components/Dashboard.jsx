@@ -16,12 +16,12 @@ const Dashboard = () => {
     },
     {
       book: "Reading collections",
-      unit: "Unit ",
+      unit: "Unit 1",
       approved: "no",
     },
     {
       book: "Listening collections",
-      unit: "Unit ",
+      unit: "Unit 1 ",
       approved: "no",
     },
   ];
@@ -56,41 +56,40 @@ const Dashboard = () => {
       unit: "Unit 1",
       approved: "no",
     },
-    
   ];
   const level3 = [
     {
       book: "Intruduction to IELTS",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
     {
       book: "Graduation skills for IELTS",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
     {
       book: "Official Guide to IELTS",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
     {
       book: "New insight into IELTS",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
     {
       book: "Ready for IELTS",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
     {
       book: "Mindset for IELTS L1-L3",
       unit: "Unit 1",
-      approved: "no",  
+      approved: "no",
     },
   ];
-  
+
   const level4 = [
     {
       book: "Cambridge 11-14",
@@ -122,7 +121,6 @@ const Dashboard = () => {
       unit: "Unit 1",
       approved: "yes",
     },
-  
   ];
 
   return (
