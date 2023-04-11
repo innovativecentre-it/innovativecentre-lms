@@ -98,7 +98,7 @@ const Dashboard = () => {
     },
     {
       book: "Cambridge Trainer 1-2",
-      unit: "Unit 1",
+      unit: "Unit 2",
       approved: "yes",
     },
     {
