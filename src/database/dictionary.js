@@ -149,45 +149,6 @@ const trackerbase = {
       }
     },
   },
-  level5: {
-    week1: {
-      books: {
-        "Intruduction to IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        },
-        "Graduation skills for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        },
-        "Official Guide to IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        },
-        "New insight into IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        },
-        "Ready for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        },
-        "Mindset for IELTS L1-L3": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        }
-      }
-    },
-    week2: {
-      books: {
-        // add books for week 2 of level 3 here
-      }
-    },
-    week3: {
-      books: {
-        // add books for week 3 of level 3 here
-      }
-    },
-    week4: {
-      books: {
-        // add books for week 3 of level 3 here
-      }
-    },
-  }
 }
 
   
