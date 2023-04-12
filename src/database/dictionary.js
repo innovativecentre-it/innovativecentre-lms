@@ -1,6 +1,6 @@
 const trackerbase = {
   level1: {
-    week1: {
+    "Week 1": {
       books: {
         "Complete IELTS 4-5 SB": {
           units: ["Unit 1", "Unit 2", "Unit 3", "Unit 4"]
@@ -16,24 +16,24 @@ const trackerbase = {
         }
       }
     },
-    week2: {
+    "Week 2": {
       books: {
         // add books for week 2 of level 1 here
       }
     },
-    week3: {
+    "Week 3": {
       books: {
         // add books for week 3 of level 1 here
       }
     },
-    week4: {
+    "Week 4": {
       books: {
         // add books for week 4 of level 1 here
       }
     }
   },
   level2: {
-    week1: {
+    "Week 1": {
       books: {
         "Objective IELTS Advanced": {
           units: ["Unit 1", "Unit 2", "Unit 3"]
@@ -55,24 +55,24 @@ const trackerbase = {
         }
       }
     },
-    week2: {
+    "Week 2": {
       books: {
         // add books for week 2 of level 2 here
       }
     },
-    week3: {
+    "Week 3": {
       books: {
         // add books for week 3 of level 2 here
       }
     },
-    week4: {
+    "Week 4": {
       books: {
         // add books for week 4 of level 2 here
       }
     }
   },
   level3: {
-    week1: {
+    "Week 1": {
       books: {
         "Intruduction to IELTS": {
           units: ["Unit 1", "Unit 2", "Unit 3"]
@@ -94,24 +94,24 @@ const trackerbase = {
         }
       }
     },
-    week2: {
+    "Week 2": {
       books: {
         // add books for week 2 of level 3 here
       }
     },
-    week3: {
+    "Week 3": {
       books: {
         // add books for week 3 of level 3 here
       }
     },
-    week4: {
+    "Week 4": {
       books: {
         // add books for week 3 of level 3 here
       }
     },
   },
   level4: {
-    week1: {
+    "Week 1": {
       books: {
         "Intruduction to IELTS": {
           units: ["Unit 1", "Unit 2", "Unit 3"]
@@ -133,17 +133,17 @@ const trackerbase = {
         }
       }
     },
-    week2: {
+    "Week 2": {
       books: {
         // add books for week 2 of level 3 here
       }
     },
-    week3: {
+    "Week 3": {
       books: {
         // add books for week 3 of level 3 here
       }
     },
-    week4: {
+    "Week 4": {
       books: {
         // add books for week 3 of level 3 here
       }
