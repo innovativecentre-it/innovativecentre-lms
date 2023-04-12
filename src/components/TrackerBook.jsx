@@ -28,7 +28,7 @@ const TrackerBook = ({ bookData, bookTitle }) => {
               <Table.Cell>
                 <Dropdown label="Units" inline={true}>
                   {bookData.units.map((unit, index) => (
-                    <div>
+                    <div className="">
                       <Dropdown.Item>{unit}</Dropdown.Item>
                     </div>
                   ))}

@@ -33,7 +33,7 @@ const TrackerList = ({ levelData }) => {
                         {book}
                       </Table.Cell>
                       <Table.Cell>
-                        <Dropdown label="Units" inline={true}>
+                        <Dropdown label="Units" inline={true} placement="right">
                           {levelData[week].books[book].units.map(
                             (unit, index) => (
                               <Dropdown.Item>{unit}</Dropdown.Item>

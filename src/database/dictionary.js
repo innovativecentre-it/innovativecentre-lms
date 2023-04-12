@@ -3,13 +3,13 @@ const trackerbase = {
     "Week 1": {
       books: {
         "Complete IELTS 4-5 SB": {
-          units: ["Unit 1", "Unit 2", "Unit 3", "Unit 4"]
+          units: ["Unit 1", "Unit 2", "Unit 3", "Unit 4", "Unit 5", "Unit 6", "Unit 7", "Unit 8", "Unit 9", "Unit 10"]
         },
         "Complete IELTS 4-5 WB": {
           units: ["Unit 1", "Unit 2", "Unit 3"]
         },
         "Reading collections": {
-          units: ["Unit 11"]
+          units: ["All"]
         },
         "Listening collections": {
           units: ["Unit 1"]
