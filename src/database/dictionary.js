@@ -35,41 +35,94 @@ const trackerbase = {
   level2: {
     "Week 1": {
       books: {
-        "Objective IELTS Advanced": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "IELTS for AP Student's Book ": {
+          units: ["Unit 1", "Unit 2"]
         },
-        "Graduation IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "IELTS for AP Booster  ": {
+          units: ["Unit 1", "Unit 2"]
         },
-        "Advantage Reading skills": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        " Writing Assignments from Students Book and Workbook ": {
+          units: ["3 Writing Task 2 and 1 Writing Task 1"]
         },
-        "Advantage Listening skills": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Listening to Cambridge 7-8 ": {
+          units: ["All"]
         },
-        "Advanced Vocabulary for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Line charts Assignments": {
+          units: [""]
         },
-        "Objective Proficiency": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        }
+        "Speaking Part 2 Adjectives and descriptions": {
+          units: [""]
+        },
       }
     },
     "Week 2": {
       books: {
-        // add books for week 2 of level 2 here
+        "IELTS for AP Students Book ": {
+          units: ["Unit 3", "Unit 4"]
+        },
+        "IELTS for AP Booster ": {
+          units: ["Unit 3", "Unit 4"]
+        },
+        "Writing Assignments from Students Book and Workbook ": {
+          units: ["3 Writing Task 2 and 1 Writing Task 1"]
+        },
+        "Reading Cambridge 7-8 ": {
+          units: ["All"]
+        },
+        "Pie charts Assignments": {
+          units: [""]
+        },
+        "Speaking Part 2 Describing Places ": {
+          units: [""]
+        }
+        
       }
     },
     "Week 3": {
       books: {
-        // add books for week 3 of level 2 here
+        "IELTS for AP Students Book ": {
+          units: ["Unit 5", "Unit 6"]
+        },
+        "IELTS for AP Booster ": {
+          units: ["Unit 5", "Unit 6"]
+        },
+        "Writing Assignments from Students Book and Workbook ": {
+          units: ["3 Writing Task 2 and 1 Writing Task 1"]
+        },
+        "Listening to Cambridge 9-10": {
+          units: ["All"]
+        },
+        "Diagram Assignments": {
+          units: [""]
+        },
+        "Speaking Part 3 Topics  ": {
+          units: [""]
+        }
       }
     },
     "Week 4": {
       books: {
-        // add books for week 4 of level 2 here
+        "IELTS for AP Students Book ": {
+          units: ["Unit 6", "Unit 7"]
+        },
+        "IELTS for AP Booster ": {
+          units: ["Unit 6", "Unit 7"]
+        },
+        "Writing Assignments from Students Book and Workbook ": {
+          units: ["3 Writing Task 2 and 1 Writing Task 1"]
+        },
+        "Reading Cambridge 9-10 ": {
+          units: ["All"]
+        },
+        "Task-2 planning and paragraphing Essays ": {
+          units: [""]
+        },
+        "Speaking Part 1 Topics": {
+          units: [""]
+        }
       }
-    }
+    },
+    
   },
   level3: {
     "Week 1": {
