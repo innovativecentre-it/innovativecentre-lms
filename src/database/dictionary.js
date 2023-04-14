@@ -188,148 +188,146 @@ const trackerbase = {
       books: {
         "Complete IELTS 4-5 SB": {
           units: ["All"]
-          },
-          
-          "Academic Purposes 5.0-6.5": {
-          units: ["All"]
-          },
-          
-          "Collections for Readings": {
-          units: ["All"]
-          },
-          
-          "Macmillan Reading Skills 4-6": {
-          units: ["All"]
-          },
-          
-          "Macmillan Listening Skills 4-6": {
-          units: ["All"]
-          },
-          
-          "Macmillan Writing Skills 4-6": {
-          units: ["All"]
-          },
-          
-          "Macmillan Reading Skills 6-7.5": {
-          units: ["All"]
-          },
-          
-          "Macmillan Listening Skills 6-7.5": {
-          units: ["All"]
-          },
-          
-          "Macmillan Writing Skills 6-7.5": {
-          units: ["All"]
-          },
-          
-          "Advantage Writing": {
-          units: ["All"]
-          },
-          
-          "Advantage Reading": {
-          units: ["All"]
-          },
-          
-          "Advantages Listening and Speaking": {
-          units: ["All"]
-          },
-          
-          "Mindset for IELTS Foundation": {
-          units: ["All"]
-          },
-          
-          "Mindset for IELTS Level 1": {
-          units: ["All"]
-          },
-          
-          "Mindset for IELTS Level 2": {
-          units: ["All"]
-          },
-          
-          "Mindset for IELTS Level 3": {
-          units: ["All"]
-          },
-          
-          "Vocabulary for IELTS": {
-          units: ["All"]
-          },
-          
-          "Advanced Vocabulary for IELTS": {
-          units: ["All"]
-          },
-          
-          "Introduction to IELTS": {
-          units: ["All"]
-          },
-          
-          "Graduation skills for IELTS": {
-          units: ["All"]
-          },
-          
-          "Official Guide to IELTS": {
-          units: ["All"]
-          },
-          
-          "IELTS Trainer": {
-          units: ["All"]
-          },
-          
-          "Complete 5-6.5": {
-          units: ["All"]
-          },
-          
-          "Complete 6.5-7.5": {
-          units: ["All"]
-          },
-          
-          "Masterclass for IELTS": {
-          units: ["All"]
-          },
-          
-          "Objective IELTS Intermediate": {
-          units: ["All"]
-          },
-          
-          "Objective IELTS Advanced": {
-          units: ["All"]
-          },
-          
-          "New Insight into IELTS": {
-          units: ["All"]
-          },
-          
-          "Cambridge Practices 9-14": {
-          units: ["All"]
-          },
-          
-          "Longman Practices 1-3": {
-          units: ["All"]
-          },
-          
-          "Macmillan Test builder 1-2": {
-          units: ["All"]
-          },
-          
-          "Graduation SB Macmillan": {
-          units: ["All"]
-          },
-          
-          "Macmillan Ready for IELTS": {
-          units: ["All"]
-          },
-          
-          "Exam Essentials": {
-          units: ["All"]
-          },
-          
-          "Cambridge Advanced English": {
-          units: ["All"]
-          }
+        },
+        
+        "Academic Purposes 5.0-6.5": {
+        units: ["All"]
+        },
+        
+        "Collections for Readings": {
+        units: ["All"]
+        },
+        
+        "Macmillan Reading Skills 4-6": {
+        units: ["All"]
+        },
+        
+        "Macmillan Listening Skills 4-6": {
+        units: ["All"]
+        },
+        
+        "Macmillan Writing Skills 4-6": {
+        units: ["All"]
+        },
+        
+        "Macmillan Reading Skills 6-7.5": {
+        units: ["All"]
+        },
+        
+        "Macmillan Listening Skills 6-7.5": {
+        units: ["All"]
+        },
+        
+        "Macmillan Writing Skills 6-7.5": {
+        units: ["All"]
+        },
+        
+        "Advantage Writing": {
+        units: ["All"]
+        },
+        
+        "Advantage Reading": {
+        units: ["All"]
+        },
+        
+        "Advantages Listening and Speaking": {
+        units: ["All"]
+        },
+        
+        "Mindset for IELTS Foundation": {
+        units: ["All"]
+        },
+        
+        "Mindset for IELTS Level 1": {
+        units: ["All"]
+        },
+        
+        "Mindset for IELTS Level 2": {
+        units: ["All"]
+        },
+        
+        "Mindset for IELTS Level 3": {
+        units: ["All"]
+        },
+        
+        "Vocabulary for IELTS": {
+        units: ["All"]
+        },
+        
+        "Advanced Vocabulary for IELTS": {
+        units: ["All"]
+        },
+        
+        "Introduction to IELTS": {
+        units: ["All"]
+        },
+        
+        "Graduation skills for IELTS": {
+        units: ["All"]
+        },
+        
+        "Official Guide to IELTS": {
+        units: ["All"]
+        },
+        
+        "IELTS Trainer": {
+        units: ["All"]
+        },
+        
+        "Complete 5-6.5": {
+        units: ["All"]
+        },
+        
+        "Complete 6.5-7.5": {
+        units: ["All"]
+        },
+        
+        "Masterclass for IELTS": {
+        units: ["All"]
+        },
+        
+        "Objective IELTS Intermediate": {
+        units: ["All"]
+        },
+        
+        "Objective IELTS Advanced": {
+        units: ["All"]
+        },
+        
+        "New Insight into IELTS": {
+        units: ["All"]
+        },
+        
+        "Cambridge Practices 9-14": {
+        units: ["All"]
+        },
+        
+        "Longman Practices 1-3": {
+        units: ["All"]
+        },
+        
+        "Macmillan Test builder 1-2": {
+        units: ["All"]
+        },
+        
+        "Graduation SB Macmillan": {
+        units: ["All"]
+        },
+        
+        "Macmillan Ready for IELTS": {
+        units: ["All"]
+        },
+        
+        "Exam Essentials": {
+        units: ["All"]
+        },
+        
+        "Cambridge Advanced English": {
+        units: ["All"]
+        },
       }
     },
   },
-}
+};
   
-
-
 export default trackerbase;
