@@ -329,7 +329,6 @@ const trackerbase = {
     },
   },
 
-  
-
-
+ 
 }
+export default trackerbase;
