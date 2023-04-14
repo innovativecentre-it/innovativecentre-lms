@@ -3,185 +3,240 @@ const trackerbase = {
     "Week 1": {
       books: {
         "Complete IELTS 4-5 SB": {
-          units: ["Unit 1", "Unit 2", "Unit 3", "Unit 4", "Unit 5", "Unit 6", "Unit 7", "Unit 8", "Unit 9", "Unit 10"]
+          units: [
+            "Unit 1",
+            "Unit 2",
+            "Unit 3",
+            "Unit 4",
+            "Unit 5",
+            "Unit 6",
+            "Unit 7",
+            "Unit 8",
+            "Unit 9",
+            "Unit 10",
+          ],
         },
         "Complete IELTS 4-5 WB": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Reading collections": {
-          units: ["All"]
+          units: ["All"],
         },
         "Listening collections": {
-          units: ["Unit 1"]
-        }
-      }
+          units: ["Unit 1"],
+        },
+      },
     },
     "Week 2": {
       books: {
         // add books for week 2 of level 1 here
-      }
+      },
     },
     "Week 3": {
       books: {
         // add books for week 3 of level 1 here
-      }
+      },
     },
     "Week 4": {
       books: {
         // add books for week 4 of level 1 here
-      }
-    }
+      },
+    },
   },
   level2: {
     "Week 1": {
       books: {
         "Objective IELTS Advanced": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Graduation IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Advantage Reading skills": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Advantage Listening skills": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Advanced Vocabulary for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
         "Objective Proficiency": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        }
-      }
+          units: ["Unit 1", "Unit 2", "Unit 3"],
+        },
+      },
     },
     "Week 2": {
       books: {
         // add books for week 2 of level 2 here
-      }
+      },
     },
     "Week 3": {
       books: {
         // add books for week 3 of level 2 here
-      }
+      },
     },
     "Week 4": {
       books: {
         // add books for week 4 of level 2 here
-      }
-    }
+      },
+    },
   },
   level3: {
     "Week 1": {
       books: {
-        "Intruduction to IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Complete Students Book": {
+          units: ["Unit 1", "Unit 3"],
         },
-        "Graduation skills for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Complete Workbook": {
+          units: ["Unit 1", "Unit 3"],
         },
-        "Official Guide to IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Static graphs ": {
+          units: [""],
         },
-        "New insight into IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "	Writing Assignments from Students’Booksk andWorkbooksk		": {
+          units: [""],
         },
-        "Ready for IELTS": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
+        "Skills development ": {
+          units: ["Unit 1", "Unit 2", "Unit 3"],
         },
-        "Mindset for IELTS L1-L3": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-        }
-      }
+        "Speaking Part 1 ": {
+          units: ["15 pieces"],
+        },
+      },
     },
     "Week 2": {
       books: {
-        // add books for week 2 of level 3 here
-      }
+        "Complete Students Book ": {
+          units: ["Unit 4", "Unit 5", "Unit 6"],
+        },
+        "Complete Workbook ": {
+          units: ["Unit 4", "Unit 5", "Unit 6"],
+        },
+        "Dynamic Graphs/ Advantage and disadvantage essays  ": {
+          units: [""],
+        },
+        "Writing Assignments from Students’Booksk anWorkbooksok": {
+          units: [""],
+        },
+        "Skills development ": {
+          units: ["Unit 4", "Unit 5", "Unit 6", "Unit 7"],
+        },
+        "Listening Cam": {
+          units: [
+            "Unit 9",
+            "Unit 10",
+            "Unit 11",
+            "Unit 12",
+            "Unit 13",
+            "Unit 14",
+          ],
+        },
+        "Speaking Part 2 ": {
+          units: ["15 pieces"],
+        },
+      },
     },
     "Week 3": {
       books: {
-        // add books for week 3 of level 3 here
-      }
+        "Complete Students Book ": {
+          units: ["Unit 7", "Unit 8"],
+        },
+        "Complete Workbook ": {
+          units: ["Unit 7", "Unit 8"],
+        },
+        "Dynamic Graphs  ": {
+          units: [""],
+        },
+        "Complete Workbook ": {
+          units: ["Unit 7", "Unit 8"],
+        },
+        "Writing Assignments from Student's Book Workbook": {
+          units: [""],
+        },
+        "Skills development ": {
+          units: ["Unit 8", "Unit 9", "Unit 10"],
+        },
+      },
     },
     "Week 4": {
       books: {
         // add books for week 3 of level 3 here
-      }
+      },
     },
   },
   level4: {
     "Week 1": {
       books: {
         "IELTS for AP Students Book ": {
-          units: ["Unit 1", "Unit 2",]
+          units: ["Unit 1", "Unit 2"],
         },
         "AP Booster Skills": {
-          units: ["Unit 1", "Unit 2", "Unit 3"]
-         },
-         "Writing Assignments from Students Book": {
-          units: ["3 Writing task 2", "1 Writing task 1"]
+          units: ["Unit 1", "Unit 2", "Unit 3"],
+        },
+        "Writing Assignments from Students Book": {
+          units: ["3 Writing task 2", "1 Writing task 1"],
         },
         "Listening to Cambridge 7-8": {
-          units: ["All units"]
+          units: ["All units"],
         },
         "Line charts Assignments": {
-          units: ["All units"]
-          },
+          units: ["All units"],
+        },
         "Speaking Part 2 Adjectives and descriptions ": {
-          units: ["All assigments"]
-        }
-      }
+          units: ["All assigments"],
+        },
+      },
     },
 
     "Week 2": {
       books: {
         "Complete 4-5 Students Book": {
-          units: ["Unit 3", "Unit 4"]
+          units: ["Unit 3", "Unit 4"],
         },
         "Complete 4-5 Workbook": {
-         units: ["Unit 3", "Unit 4"]
+          units: ["Unit 3", "Unit 4"],
         },
         "True False Not Given Collection": {
-          units: ["All"]
-          },
-          
-          "Speaking Discussion": {
-          units: ["Part 3"]
-          },
-          
-          "Writing Assignments from Students Book and Workbook": {
-          units: ["3 Writing Task 2", "3 Writing Task 1"]
-          }
-      }
+          units: ["All"],
+        },
+
+        "Speaking Discussion": {
+          units: ["Part 3"],
+        },
+
+        "Writing Assignments from Students Book and Workbook": {
+          units: ["3 Writing Task 2", "3 Writing Task 1"],
+        },
+      },
     },
 
     "Week 3": {
       books: {
         "Complete 4-5 Students Book": {
-          units: ["Unit 5", "Unit 6"]
-          },
-          
-          "Complete 4-5 Workbook": {
-          units: ["Unit 5", "Unit 6"]
-          },
-          
-          "Heading Collection": {
-          units: ["All"]
-          },
-          
-          "Writing Assignments from Students Book and Workbook": {
-          units: ["3 Writing Task 2", "3 Writing Task 1"]
-          },
-          
-          "Speaking Part 1": {
-          units: ["30 topics"]
-          },
-          
-          "Writing Task 2": {
-          units: ["Introduction"]
-          }
-      }
+          units: ["Unit 5", "Unit 6"],
+        },
+
+        "Complete 4-5 Workbook": {
+          units: ["Unit 5", "Unit 6"],
+        },
+
+        "Heading Collection": {
+          units: ["All"],
+        },
+
+        "Writing Assignments from Students Book and Workbook": {
+          units: ["3 Writing Task 2", "3 Writing Task 1"],
+        },
+
+        "Speaking Part 1": {
+          units: ["30 topics"],
+        },
+
+        "Writing Task 2": {
+          units: ["Introduction"],
+        },
+      },
     },
 
     "Week 4": {
@@ -328,6 +383,6 @@ const trackerbase = {
       }
     },
   },
-};
-  
+
+}
 export default trackerbase;
